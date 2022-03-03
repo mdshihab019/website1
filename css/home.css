@@ -1,6 +1,14 @@
+body{
+    background-color: rgb(255, 235, 205);
+}
+
 .jorina{
 
     margin-left:550px
+}
+
+.home:hover{
+color: blue;
 }
 .home{
 
@@ -9,11 +17,20 @@
 .about{
     margin-left: 10px;
 }
+.about:hover{
+    color: blue;
+}
 .contact{
     margin-left: 10px;
 }
+.contact:hover{
+color: blue;
+}
 .Features{
     margin-left: 10px;
+}
+.Features:hover{
+    color: blue;
 }
 .cover{
     margin-top: 10px;
@@ -29,4 +46,62 @@ border-style:ridge
 
     margin-left: 530px; 
     font-weight: 400;
+}
+.suiye{ 
+  float: left;
+}
+.atka{
+    margin-top: 30px;
+background-color:rgb(0, 255, 255);
+height: 350px;
+width: 350px;
+}
+.hand{
+    margin-left: 120px;
+    margin-top: 10px;
+    height: 50px;
+    width: 50px;
+}
+.bobo{
+    margin-left: 80px;
+
+}
+.shop{
+    margin-left: 90px;
+}
+.shop:hover{
+    background-color: red;
+}
+.arekta{
+    margin-top: 30px;
+background-color:rgb(0, 255, 255);
+height: 350px;
+width: 350px;
+}
+.sho{
+    margin-left: 120px;
+    margin-top: 10px;
+    height: 120px;
+    width: 120px;
+    
+}
+.fast{
+    margin-left: 80px;
+}
+.settt{
+    margin-top: 30px;
+background-color:rgb(0, 255, 255);
+height: 350px;
+width: 350px;
+}
+.seoo{
+    margin-left: 120px;
+    margin-top: 10px;
+    height:100px;
+    width: 100px;
+
+}
+.uv{
+    margin-left: 80px;
+
 }

@@ -6,7 +6,6 @@ body{
 
     margin-left:550px
 }
-
 .home:hover{
 color: blue;
 }
@@ -40,8 +39,7 @@ color: blue;
     width: 300;
 }
 .chobi{
-border-style:ridge
-
+border-radius: 10px;
 }
 .text{
 

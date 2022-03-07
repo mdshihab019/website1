@@ -74,7 +74,46 @@ align-items: center;
     height: 50px;
     width: 50px;
 }
+.hand:hover{
+    background-color: rgb(233, 8, 8);
+}
 .shop:hover{
     background-color: red;
 }
     
+.background{
+    background-color: rgb(249, 253, 253);
+    height: 250px;
+    width: 300;
+    margin-left: 30px;
+    margin-right: 30px;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    margin-top: 10px;
+}
+.jayga{
+    margin: 30px;
+}
+.rong{
+    height: 90px;
+    width: 90px;
+}
+.jogajog{
+    background-color: black;
+    height: 300px;
+    width: 1500px;
+    margin-top: 10px;
+    color: white;
+    display: flex;
+    flex-direction: row;
+}
+.seswork{
+ margin-left: 80px;
+}
+.lok{
+    color: rgb(194, 57, 7);
+}
+.cool:hover{
+    color: rgb(241, 240, 240);
+}
